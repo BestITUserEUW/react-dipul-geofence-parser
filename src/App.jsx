@@ -110,7 +110,7 @@ const DownloadParsedGeofenceButton = ({ geofence }) => {
   )
 }
 
-const GeofenceView = ({ geofence, geofenceName }) => {
+const GeofenceView = ({ geofence }) => {
   let geofenceType = 'N.A'
   let numCoordinates = 0
 
