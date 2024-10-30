@@ -39,7 +39,8 @@ const parseKmlGeofence = (text) => {
                 geometry: {
                     type: "Polygon",
                     coordinates: parsedCoordinates
-                }
+                },
+                inclusion: true,
             }
         ]
     }
