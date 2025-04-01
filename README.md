@@ -2,7 +2,7 @@
 
 ## Run
 
-`npm run dev`
+`npm run start`
 
 ## Features
 
